@@ -11,7 +11,7 @@ Author:
 
 We recommend executing this notebook in a Colab environment to gain access to GPUs and to manage all necessary dependencies. 
 
-<a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/downscaling-climate-projections/blob/main/Statistical_Downscaling_of_Climate_Projections_with_Deep_Learning.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/kiplimock/downscaling-climate-projections/blob/main/Statistical_Downscaling_of_Climate_Projections_with_Deep_Learning.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
